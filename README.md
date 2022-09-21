@@ -1,10 +1,10 @@
-## Sobre mim
+## About
 Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inovação, desenvolvendo carreira em TI como Engenheiro de Software. Continuo em constante aprendizado, movido por desafios e me aprimorando em algumas linguagens e tecnologias.
 
-## Contato
+## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jntneves/)
 
-## Conhecimentos
+## Knowledge
 <div style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
@@ -27,4 +27,9 @@ Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e 
     <img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="npm" />
 </div>
 
-## Selos
+## Badges
+
+  <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2638196" target="_blank" rel="noreferrer noopener">
+  <img src="https://cdn.qwiklabs.com/P2g%2BoVUAnIwMcfvlLGRH5oEUFQQtDtJ56ljwLTrrXNQ%3D"
+       alt="Google Cloud Badge" width=150px>
+    </a>
