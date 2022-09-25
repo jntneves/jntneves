@@ -33,3 +33,7 @@ Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e 
   <img src="https://cdn.qwiklabs.com/P2g%2BoVUAnIwMcfvlLGRH5oEUFQQtDtJ56ljwLTrrXNQ%3D"
        alt="Google Cloud Badge" width=150px>
     </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2652533" target="_blank" rel="noreferrer noopener">
+  <img src="https://cdn.qwiklabs.com/s41NLIs1riSUylD8%2FIfAfxIosbDQsQM0ONnRR1Mv73Y%3D"
+       alt="Google Cloud Badge" width=150px>
+    </a>
