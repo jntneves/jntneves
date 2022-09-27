@@ -18,6 +18,7 @@ Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud" />
     <img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="npm" />
+    <img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" />
 </div>
 
 ## Badges
@@ -28,5 +29,9 @@ Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e 
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2652533" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/s41NLIs1riSUylD8%2FIfAfxIosbDQsQM0ONnRR1Mv73Y%3D"
+       alt="Google Cloud Badge" width=150px>
+    </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2661516" target="_blank" rel="noreferrer noopener">
+  <img src="https://cdn.qwiklabs.com/txbeb17AOTs7XofPNwoBttTsQDcYjGr9UiR0%2B%2FL83eI%3D"
        alt="Google Cloud Badge" width=150px>
     </a>
