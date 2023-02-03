@@ -1,5 +1,5 @@
 ## About
-Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inovação, desenvolvendo carreira em TI como Engenheiro de Software. Continuo em constante aprendizado, movido por desafios e me aprimorando em algumas linguagens e tecnologias.
+Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inovação, desenvolvendo carreira em TI como Engenheiro de Software. Continuo em constante aprendizado, movido por desafios e me aprimorando em algumas linguagens e tecnologias.
 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jntneves/)
