@@ -19,29 +19,33 @@ Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inov
 
 ## Badges
 
+  <a href="https://www.credly.com/badges/0893f42b-6c88-410c-ad6c-e5165b679043/public_url" target="_blank" rel="noreferrer noopener">
+  <img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png"
+       alt="IBM Data Science 01" width=120px>
+    </a>
   <a href="https://www.credly.com/badges/3e104c17-6c0e-46dd-829f-a4251a3c76ae/public_url" target="_blank" rel="noreferrer noopener">
   <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png"
-       alt="IBM Cybersecurity" width=120px height=109px>
+       alt="IBM Cybersecurity" width=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2672586" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D"
-       alt="Google Cloud Badge" width=120px>
+       alt="Google Cloud Badge" width=120px height=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2638196" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/P2g%2BoVUAnIwMcfvlLGRH5oEUFQQtDtJ56ljwLTrrXNQ%3D"
-       alt="Google Cloud Badge" width=120px>
+       alt="Google Cloud Badge" width=120px height=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2652533" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/s41NLIs1riSUylD8%2FIfAfxIosbDQsQM0ONnRR1Mv73Y%3D"
-       alt="Google Cloud Badge" width=120px>
+       alt="Google Cloud Badge" width=120px height=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2661516" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/txbeb17AOTs7XofPNwoBttTsQDcYjGr9UiR0%2B%2FL83eI%3D"
-       alt="Google Cloud Badge" width=120px>
+       alt="Google Cloud Badge" width=120px height=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2672823" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/4CKPsTHZga2arNEoq8rWdWt%2Bp7e%2FwqNG5K4h1mg8%2Fno%3D"
-       alt="Google Cloud Badge" width=120px>
+       alt="Google Cloud Badge" width=120px height=120px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2655134" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/qigZkhvg9KqENz%2FVGMdHGLby%2FUQ%2Bhr1id2Cbp0GxSvs%3D"
