@@ -19,9 +19,9 @@ Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inov
 
 ## Badges
 
-  <a href="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" target="_blank" rel="noreferrer noopener">
-  <img src="https://www.credly.com/badges/3e104c17-6c0e-46dd-829f-a4251a3c76ae/public_url"
-       alt="IBM Cybersecurity" width=150px>
+  <a href="https://www.credly.com/badges/3e104c17-6c0e-46dd-829f-a4251a3c76ae/public_url" target="_blank" rel="noreferrer noopener">
+  <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png"
+       alt="IBM Cybersecurity" width=150px height=137px>
     </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/05372526-c2c7-413d-9947-14fcd12a8d57/badges/2672586" target="_blank" rel="noreferrer noopener">
   <img src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D"
