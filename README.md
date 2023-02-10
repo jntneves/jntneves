@@ -19,6 +19,10 @@ Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inov
 
 ## Badges
 
+  <a href="https://www.credly.com/badges/2fcdcaae-ef9b-45d7-92ce-1ca7dde03c45/public_url" target="_blank" rel="noreferrer noopener">
+  <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
+       alt="IBM Design Thinking Practioner" width=120px>
+    </a>
   <a href="https://www.credly.com/badges/0893f42b-6c88-410c-ad6c-e5165b679043/public_url" target="_blank" rel="noreferrer noopener">
   <img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png"
        alt="IBM Data Science 01" width=120px>
