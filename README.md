@@ -23,6 +23,10 @@ Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inov
 
 ## Badges
 
+  <a href="https://www.credly.com/badges/deca6db1-5982-45e3-b0d4-740e61809805/public_url" target="_blank" rel="noreferrer noopener">
+  <img src="https://images.credly.com/size/340x340/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png"
+       alt="IBM Cloud Essentials" width=120px>
+    </a>
   <a href="https://www.credly.com/badges/8482f1f3-289d-4f6a-a971-9d7a33f9890d/public_url" target="_blank" rel="noreferrer noopener">
   <img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png"
        alt="IBM Docker Essentials" width=120px>
