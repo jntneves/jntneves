@@ -37,7 +37,7 @@ Cursando Análise e Desenvolvimento de Sistemas, entusiasta de tecnologia e inov
     </a>
   <a href="https://www.credly.com/badges/0893f42b-6c88-410c-ad6c-e5165b679043/public_url" target="_blank" rel="noreferrer noopener">
   <img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png"
-       alt="IBM Data Science 01" width=120px>
+       alt="IBM Data Science" width=120px>
     </a>
   <a href="https://www.credly.com/badges/3e104c17-6c0e-46dd-829f-a4251a3c76ae/public_url" target="_blank" rel="noreferrer noopener">
   <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png"
